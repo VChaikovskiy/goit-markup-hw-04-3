@@ -518,7 +518,8 @@ margin-left: calc(-1 * var(--cardset-gap));
     box-shadow: 0px 4px 4px;
 }
 .icon {
-    background-color: var(--color-button);  
+    background-color: var(--color-button); 
+    fill: var(--color-text); 
 }
 .icon-item {
     /* background-position: 100px 25px; */
